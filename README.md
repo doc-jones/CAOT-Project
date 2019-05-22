@@ -1,2 +1,1 @@
-# CAOT-Project
-Front End of Chicago Array of Things Project
+# Chicago Array of Things - Front End (React & Redux)
